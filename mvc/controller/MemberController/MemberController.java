@@ -2,7 +2,7 @@ package mvc.controller.MemberController;
 
 import mvc.model.vo.Member.Member;
 
-public class MemberController {
+public class MemberController  {
 
 	private Member mem = new Member("admin", "1234", "홍길동", "901022-1562334", 163.0);
 
