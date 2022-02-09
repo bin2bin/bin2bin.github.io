@@ -2,7 +2,7 @@ package com.gj.practice1.example;
 
 import java.util.Scanner;
 
-public class VariablePractice   {
+public class VariablePractice    {
 
 	public void method1()   {
 		
